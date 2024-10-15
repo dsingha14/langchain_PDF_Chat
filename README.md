@@ -1,4 +1,4 @@
-#Chat with PDFs
+
 
 Overview
 Chat with PDFs is a Streamlit web application that allows users to interactively chat with multiple PDF documents. Users can upload PDFs, extract their text, and ask questions to receive relevant answers based on the content of the documents.
